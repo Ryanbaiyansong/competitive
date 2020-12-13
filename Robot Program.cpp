@@ -1,0 +1,1 @@
+main(x,y){for(scanf("%*d");~scanf("%d%d",&x,&y);)printf("%d\n",2*(x>y?x:y)-(x!=y));}
