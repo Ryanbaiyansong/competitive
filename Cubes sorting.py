@@ -1,0 +1,1 @@
+for s in [*open(0)][2::2]:a=list(map(int, s.split()));print('YNEOS'[len(set(a))==len(a) and a==sorted(a)[::-1]::2])
