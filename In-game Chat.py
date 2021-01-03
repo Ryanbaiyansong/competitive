@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:print('YNeos'[2*len(s.rstrip(')\n'))>=len(s)-1::2])
