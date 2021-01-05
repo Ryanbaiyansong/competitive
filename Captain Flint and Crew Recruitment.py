@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:n=int(s);f=n in(36,40,44);print(*(['NO'],['Yes',6,10,14+f,n-30-f])[n>30])
