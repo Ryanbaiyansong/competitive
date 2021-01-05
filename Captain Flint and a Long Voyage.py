@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:n=int(s);k=0--n//4;print('9'*(n-k)+'8'*k)
