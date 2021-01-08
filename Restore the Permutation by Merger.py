@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:print(*dict.fromkeys(s.split()))
